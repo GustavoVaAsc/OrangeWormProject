@@ -1,0 +1,3 @@
+Name,First Station,Last Station,Transfer Time,Station Num
+EsclavizarmeMoment,SAN ANTONIO,UNIVERSIDAD,114,10
+Coco,CENTRO MEDICO,ERMITA,59,8

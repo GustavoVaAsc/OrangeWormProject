@@ -1,0 +1,5 @@
+Name,First Station,Last Station,Transfer Time,Station Num
+Casa de Mafer,UNIVERSIDAD,SAN ANTONIO,49,10
+Zapatavivelaluchasigue,UNIVERSIDAD,ZAPATA,20,6
+Rutafer,ERMITA,TACUBA,102,15
+LaRutaDeLaMuerte,TEPITO,ECATEPEC,98,14

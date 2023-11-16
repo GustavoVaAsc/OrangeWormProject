@@ -1,0 +1,4 @@
+Name,First Station,Last Station,Transfer Time,Station Num
+Casa del Furro,UNIVERSIDAD,SANTA MARTA,172,25
+ConciertosMoment,UNIVERSIDAD,AUDITORIO,93,14
+ConciertoMoment2,MIGUEL ANGEL DE QUEVEDO,CIUDAD DEPORTIVA,106,14
